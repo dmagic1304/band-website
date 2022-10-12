@@ -1,0 +1,19 @@
+.sidebar {
+  float: right;
+  background-color: aqua;
+  color: red;
+  font-weight: 600;
+}
+
+.firstimg {
+  float: left;
+}
+
+.secondimg {
+  float: right;
+}
+
+.sectionone {
+  margin-bottom: 200px;  
+  margin-top: 200px;
+}
